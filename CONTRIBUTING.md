@@ -1,3 +1,6 @@
+# Testing file only - not the live system
+This is just a cloned copy so we can try different things out. If we do something good to this file we can always copy it across to the live system later.
+
 # Contributing to LearnOSM
 
 Thank you for your interest in contributing to [learnosm.org](http://learnosm.org). This file explains how to make
