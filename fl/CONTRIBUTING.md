@@ -8,9 +8,9 @@ isThay isyay ustjay ayay onedclay opycay osay eway ancay ytray ifferentday ingst
 
 ankThay youyay orfay youryay interestyay inyay ontributingcay otay [earnosmlay.orgyay](http://learnosm.org). isThay ilefay explainsyay owhay otay akemay ontributionscay. eWay ancay alsoyay oordinatecay orkway ithway ['issuesyay' erehay onyay ithubgay](https://github.com/hotosm/learnosm/issues?state=open), andyay iscussionday onyay ethay  [learnosm-coord Mailing list](https://lists.openstreetmap.org/listinfo/learnosm-coord). eBay uresay otay ollowfay esethay annelschay ifyay youyay areyay interestedyay inyay ongoingyay ontributioncay.
 
-## Text modifications and translations
+## extTay odificationsmay andyay anslationstray 
 
-For minor edits (typos, spelling, etc), you can use the [online github editing tools](https://help.github.com/articles/editing-files-in-another-user-s-repository/) to propose changes.
+orFay inormay editsyay (ypostay, ellingspay, etcyay), youyay ancay useyay ethay [onlineyay ithubgay editingyay oolstay](https://help.github.com/articles/editing-files-in-another-user-s-repository/) otay oposepray angeschay.
 
 ## Translation workflow - new from November 2014  
 This workflow does not require the translator to install or run any software programmes on their computer & should be easy to administer. It has only become possible due to recent improvements to the editing process, explained here [online github editing tools](https://help.github.com/articles/editing-files-in-another-user-s-repository/).  
