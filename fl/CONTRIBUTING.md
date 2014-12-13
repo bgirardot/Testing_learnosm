@@ -1,13 +1,12 @@
 This section of LearnOSM is in the process of being translated. If you would like to assist with translating this site, please see CONTRIBUTING.md.
 
 
-# Testing file only - not the live system
-This is just a cloned copy so we can try different things out. If we do something good to this file we can always copy it across to the live system later.
+# estingTay ilefay onlyyay - otnay ethay ivelay ystemsay
+isThay isyay ustjay ayay onedclay opycay osay eway ancay ytray ifferentday ingsthay outyay. Ifyay eway oday omethingsay oodgay otay isthay ilefay eway ancay alwaysyay opycay ityay acrossyay otay ethay ivelay ystemsay aterlay. 
 
-# Contributing to LearnOSM
+# ontributingCay otay earnOSMLay 
 
-Thank you for your interest in contributing to [learnosm.org](http://learnosm.org). This file explains how to make
-contributions. We can also coordinate work with ['issues' here on github](https://github.com/hotosm/learnosm/issues?state=open), and discussion on the [learnosm-coord Mailing list](https://lists.openstreetmap.org/listinfo/learnosm-coord). Be sure to follow these channels if you are interested in ongoing contribution. 
+ankThay youyay orfay youryay interestyay inyay ontributingcay otay [earnosmlay.orgyay](http://learnosm.org). isThay ilefay explainsyay owhay otay akemay ontributionscay. eWay ancay alsoyay oordinatecay orkway ithway ['issuesyay' erehay onyay ithubgay](https://github.com/hotosm/learnosm/issues?state=open), andyay iscussionday onyay ethay  [learnosm-coord Mailing list](https://lists.openstreetmap.org/listinfo/learnosm-coord). eBay uresay otay ollowfay esethay annelschay ifyay youyay areyay interestedyay inyay ongoingyay ontributioncay.
 
 ## Text modifications and translations
 
