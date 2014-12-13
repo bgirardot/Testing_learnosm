@@ -1,8 +1,8 @@
 This section of LearnOSM is in the process of being translated. If you would like to assist with translating this site, please see CONTRIBUTING.md.
 
 
-# Testing file only - not the live system
-This is just a cloned copy so we can try different things out. If we do something good to this file we can always copy it across to the live system later.
+# estingTay ilefay onlyyay - otnay ethay ivelay ystemsay
+isThay isyay ustjay ayay onedclay opycay osay eway ancay ytray ifferentday ingsthay outyay. Ifyay eway oday omethingsay oodgay otay isthay ilefay eway ancay alwaysyay opycay ityay acrossyay otay ethay ivelay ystemsay aterlay. 
 
 # Contributing to LearnOSM
 
