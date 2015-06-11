@@ -1,14 +1,16 @@
-# Testing file only - not the live system
-This is just a cloned copy so we can try different things out. If we do something good to this file we can always copy it across to the live system later.
+This section of LearnOSM is in the process of being translated. If you would like to assist with translating this site, please see CONTRIBUTING.md.
 
-# Contributing to LearnOSM
 
-Thank you for your interest in contributing to [learnosm.org](http://learnosm.org). This file explains how to make
-contributions. We can also coordinate work with ['issues' here on github](https://github.com/hotosm/learnosm/issues?state=open), and discussion on the [learnosm-coord Mailing list](https://lists.openstreetmap.org/listinfo/learnosm-coord). Be sure to follow these channels if you are interested in ongoing contribution. 
+# estingTay ilefay onlyyay - otnay ethay ivelay ystemsay
+isThay isyay ustjay ayay onedclay opycay osay eway ancay ytray ifferentday ingsthay outyay. Ifyay eway oday omethingsay oodgay otay isthay ilefay eway ancay alwaysyay opycay ityay acrossyay otay ethay ivelay ystemsay aterlay. 
 
-## Text modifications and translations
+# ontributingCay otay earnOSMLay 
 
-For minor edits (typos, spelling, etc), you can use the [online github editing tools](https://help.github.com/articles/editing-files-in-another-user-s-repository/) to propose changes.
+ankThay youyay orfay youryay interestyay inyay ontributingcay otay [earnosmlay.orgyay](http://learnosm.org). isThay ilefay explainsyay owhay otay akemay ontributionscay. eWay ancay alsoyay oordinatecay orkway ithway ['issuesyay' erehay onyay ithubgay](https://github.com/hotosm/learnosm/issues?state=open), andyay iscussionday onyay ethay  [learnosm-coord Mailing list](https://lists.openstreetmap.org/listinfo/learnosm-coord). eBay uresay otay ollowfay esethay annelschay ifyay youyay areyay interestedyay inyay ongoingyay ontributioncay.
+
+## extTay odificationsmay andyay anslationstray 
+
+orFay inormay editsyay (ypostay, ellingspay, etcyay), youyay ancay useyay ethay [onlineyay ithubgay editingyay oolstay](https://help.github.com/articles/editing-files-in-another-user-s-repository/) otay oposepray angeschay.
 
 ## Translation workflow - new from November 2014  
 This workflow does not require the translator to install or run any software programmes on their computer & should be easy to administer. It has only become possible due to recent improvements to the editing process, explained here [online github editing tools](https://help.github.com/articles/editing-files-in-another-user-s-repository/).  
